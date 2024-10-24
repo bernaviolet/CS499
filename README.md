@@ -35,9 +35,19 @@ In this project, I enhanced a text-based game by integrating relational database
 [Click here to watch the code review for the text-based game project.] (https://youtu.be/EZIwVvYI6X8)
 
 **Grazioso Service Animal Before Enhancements**
+
 [Click here to visit the repository] (https://github.com/bernaviolet/Grazioso-ServiceAnimal-Before-Enhancements)
 
 **Grazioso Service Animal After Enhancements**
+
 [Click here to visit the repository] (https://github.com/bernaviolet/Grazioso-ServiceAnimal-After-Enhancements)
+
+**Text-Based Game Before All Enhancements**
+
+[Click here to visit the repository] (https://github.com/bernaviolet/TextBasedGameBeforeEnhancements)
+
+**Text-Based Game After All Enhancements**
+
+[Click here to visit the repository] (https://github.com/bernaviolet/TextBasedGameAfterEnhancements/tree/main)
 
 
