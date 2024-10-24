@@ -29,9 +29,11 @@ In summary, my studies in Computer Science have equipped me with a robust set of
 ## Artifacts
 ###### Grazioso Service Animal Java to Python Migration
 In this project, I successfully migrated a service animal application from Java to Python, showcasing my adaptability and proficiency in multiple programming languages. By implementing a reservation function, I enhanced the application’s functionality, allowing users to reserve service animals seamlessly. Additionally, I incorporated robust error handling and input validation, demonstrating my commitment to producing reliable and user-friendly software. This project reflects my ability to build collaborative environments, as I consulted with peers to refine the application and ensure that it met diverse user needs. Furthermore, it exemplifies my capacity to design and deliver technically sound solutions that support effective decision-making in computer science.
+
 [Click here to watch the code review for the Grazioso Service Animal project.] (https://youtu.be/SjDaaoxbbC0) 
 ###### Text-Based Game (Succulent City) Enhancements
 In this project, I enhanced a text-based game by integrating relational database tables, significantly improving data management and game complexity. I developed a health function that offers users a health boost, creating a more dynamic gameplay experience. Additionally, I implemented an algorithm using random integers to determine the outcomes of battles against enemies over multiple rounds, rather than relying solely on object completion for victory. This project not only illustrates my ability to design and evaluate computing solutions that address specific problems using algorithmic principles, but it also highlights my skill in managing trade-offs in design choices to enhance user engagement. My approach involved thorough testing and iteration, reinforcing my dedication to delivering high-quality, innovative computing solutions that align with industry standards.
+
 [Click here to watch the code review for the text-based game project.] (https://youtu.be/EZIwVvYI6X8)
 
 **Grazioso Service Animal Before Enhancements**
