@@ -33,3 +33,11 @@ In this project, I successfully migrated a service animal application from Java 
 ###### Text-Based Game (Succulent City) Enhancements
 In this project, I enhanced a text-based game by integrating relational database tables, significantly improving data management and game complexity. I developed a health function that offers users a health boost, creating a more dynamic gameplay experience. Additionally, I implemented an algorithm using random integers to determine the outcomes of battles against enemies over multiple rounds, rather than relying solely on object completion for victory. This project not only illustrates my ability to design and evaluate computing solutions that address specific problems using algorithmic principles, but it also highlights my skill in managing trade-offs in design choices to enhance user engagement. My approach involved thorough testing and iteration, reinforcing my dedication to delivering high-quality, innovative computing solutions that align with industry standards.
 [Click here to watch the code review for the text-based game project.] (https://youtu.be/EZIwVvYI6X8)
+
+**Grazioso Service Animal Before Enhancements**
+[Click here to visit the repository] (https://github.com/bernaviolet/Grazioso-ServiceAnimal-Before-Enhancements)
+
+**Grazioso Service Animal After Enhancements**
+[Click here to visit the repository] (https://github.com/bernaviolet/Grazioso-ServiceAnimal-After-Enhancements)
+
+
